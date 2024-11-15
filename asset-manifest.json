@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todo/static/js/main.cabe15cf.js",
+    "index.html": "/todo/index.html",
+    "main.cabe15cf.js.map": "/todo/static/js/main.cabe15cf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cabe15cf.js"
+  ]
+}
